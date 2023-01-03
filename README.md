@@ -1,0 +1,1 @@
+Basic react app for creating random quotes fetching from an api end point
